@@ -116,3 +116,4 @@ print("\n按照基于电影类型的数据分析，查看不同类型电影的�
 print(grouped.head(6))
 # 保存结果到CSV文件
 grouped.to_csv('popularity_by_genre.csv', index=False)
+#good
