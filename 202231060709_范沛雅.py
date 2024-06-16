@@ -117,3 +117,4 @@ print(grouped.head(6))
 # 保存结果到CSV文件
 grouped.to_csv('popularity_by_genre.csv', index=False)
 #good
+#goood
